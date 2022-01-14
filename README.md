@@ -7,7 +7,7 @@ Sometimes the Tool will register as a virus. This is a false positive. Meaning W
 
 Amd because it's messing with .ini files which are configuration files. It thinks the tool is a virus when it isn't.
 
-Download Here: [Arkady-Smith-Graphical-Optimizer](https://github.com/Cracko298/Arkady-Smith-Graphical-Optimizer/files/7765296/Arkady-Smith-Graphical-Optimizer.zip)
+Download Here: [Arkady-Smith-Graphical-Optimizer](https://github.com/Cracko298/Arkady-Smith-Graphical-Optimizer/files/7872694/Arkady-Smith-Graphical-Optimizer.zip)
 
 ![image](https://user-images.githubusercontent.com/78656905/147157005-9d737887-40e6-41bf-b771-5d01c6b6ee9e.png)
 
